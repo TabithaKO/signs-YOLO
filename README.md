@@ -8,15 +8,20 @@ creating a custom object detector using yolov3 and yolov4
 4. Run the cells sequentially
 
 # Pretrained Weights
-The YOLOv3 and YOLOv4 pretrained weights can be downloaded from the Google Drive link 
-(https://drive.google.com/drive/folders/1XsyV7PLHGTwTZnFOQf4sTsRefKDbpfXo?usp=sharing)
+The YOLOv3 and YOLOv4 pretrained weights can be downloaded from the [Google Drive link](https://drive.google.com/drive/folders/1XsyV7PLHGTwTZnFOQf4sTsRefKDbpfXo?usp=sharing)
 
 # Custom Trained Weights
-I have my custom trained weights:
+I have my custom trained weights,
 - yolov3-custom_2000.weights (YOLOv3)
 - yolov4-custom_last.weights (YOLOv4)
 
+feel free to use these weights if you don't want to train your own.
+
 # Demo
 I have out.mp4 file in the google drive folder. 
-You can watch the results from my yolov3 custom weights.
+The video is the output from my yolov3 custom weights on a video stream.
 
+# citations:
+I borrowed inspiration from various online resources:
+- This medium [article](https://medium.com/analytics-vidhya/implementing-yolov4-to-detect-custom-objects-using-google-colab-6691c98b15ff)
+- The AI Guy's [video](https://www.youtube.com/watch?v=p44G9_xCM4I&t=1114s)
