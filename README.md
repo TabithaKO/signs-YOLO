@@ -25,3 +25,6 @@ The video is the output from my yolov3 custom weights on a video stream.
 I borrowed inspiration from various online resources:
 - This medium [article](https://medium.com/analytics-vidhya/implementing-yolov4-to-detect-custom-objects-using-google-colab-6691c98b15ff)
 - The AI Guy's [video](https://www.youtube.com/watch?v=p44G9_xCM4I&t=1114s)
+
+# Side note:
+The notebook isn't as bulky as it seems. I left the output of some of the cells present for you to gauge if you were getting the right output.
